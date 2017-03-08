@@ -1,2 +1,2 @@
 # hello-world
-just another depository
+just another depository made by just another coder ;)
